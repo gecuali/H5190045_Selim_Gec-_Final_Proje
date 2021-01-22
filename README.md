@@ -2,7 +2,7 @@
 
 ![appicon](https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png)
 
-Evrendeki en büyük yıldızlar hakkında yapmış olduğum bir android uygulaması
+Evrendeki en büyük yıldızlar hakkında yapmış olduğum basit bir android uygulaması
 
 Bu uygulamanın amacı, Android temellerini kavramak ve "Nasıl Android uygulaması oluşturulur?" sorusuna cevap bir örnek niteliği taşımaktır.
 
