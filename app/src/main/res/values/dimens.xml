@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="editor_absoluteX">16dp</dimen>
+
+    <dimen name="zero">0dp</dimen>
+
+    <dimen name="layout_padding">15dp</dimen>
+
+    <dimen name="image_cardview_logo_height_size">100dp</dimen>
+    <dimen name="image_cardview_logo_width_size">100dp</dimen>
+
+    <dimen name="image_banner_height">110dp</dimen>
+
+    <dimen name="image_padding">15dp</dimen>
+
+    <dimen name="text_detail"></dimen>
+
+    <dimen name="text_cv_header_size">25sp</dimen>
+    <dimen name="text_cv_header_padding">15dp</dimen>
+
+    <dimen name="text_cv_padding">5dp</dimen>
+
+    <dimen name="text_details_header_size">30sp</dimen>
+
+    <dimen name="text_details_detail_size">20sp</dimen>
+
+
+    <dimen name="details_padding">10dp</dimen>
+
+    
+</resources>

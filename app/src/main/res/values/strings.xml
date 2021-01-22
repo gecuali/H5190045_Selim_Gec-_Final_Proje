@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dev Yildizlar</string>
+    <string name="not_connected_title">İnternete bağlı değilsiniz!</string>
+    <string name="not_connected_message">Uygulamayı kullanabilmek için internete bağlı olmanız gerek.</string>
+    <string name="not_connected_positive_button">İnternet Ayarlarına Git</string>
+    <string name="not_connected_negative_button">Sonlandır</string>
+
+    <string name="clicked_planet">Tıklanan Gezegen Adı: </string>
+
+    <string name="exit_title">Çıkış</string>
+    <string name="exit_message">Uygulamadan çıkış yapılıyor. Çıkmak istiyor musunuz?</string>
+    <string name="exit_negative_button">Hayır</string>
+    <string name="exit_positive_button">Evet</string>
+</resources>
