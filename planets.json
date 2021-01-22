@@ -1,0 +1,110 @@
+[
+
+
+	{
+		"GezegenAdi": "Güneş",
+		"GezegenYaricapi": "Yarıçapı: 695.500 km",
+		"DunyayaUzakligi": "Dünyadan Uzaklığı: 149.600.000 km",
+		"GezegenYuzeySicakligi": "Yüzey Sıcaklığı: 5.778 Kelvin (K) / 5504.85 Celsius (°C)",
+		"Aciklama": "Güneş (ingilizcede Sun veya Sol) Güneş Sistemimizin merkezinde duran, yaşam kaynağımız olan bir yıldızdır. Yıldızımızın boyutu Dünya ile kıyaslamada çok büyük olsa da, aslında diğer yıldızlarla kıyaslamada orta büyüklükte olan bir yıldızdır. Bilim adamlarına göre Güneş 4.6 milyar yıl önceden var olmaktadır. Yıldızımız ömrünün orta çağlarındadır ve yaklaşık 5 milyar yıl sonra “ölecektir”. Eğer Güneş olmazsa, Dünyamızda yaşam da olmazdı. Yıldızımız mükemmel bir nitelikle sadece kutuplarda yaklaşık 10 km farkla küre şeklindedir. Tüm Güneş Sistemi kütlesinin yüzde 99.86 kadarı  yıldızımız ve yaşam kaynağımız olan  Güneşin payına düşer. Aynı zamanda Güneş Dünyadan 330 bin kat daha ağır ve 109 kat daha büyüktür. Ayrıca Güneş bir milyon (960 bin) Dünyayı içine ala bilecek büyüklüktedir.",
+		"LogoUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet1_logo.jpg",
+		"KapakImgUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet1_banner.jpg"
+	}
+
+	,
+
+	{
+
+		"GezegenAdi": "Aldebaran",
+		"GezegenYaricapi": "Yarıçapı: 30.701.000 km",
+		"DunyayaUzakligi": "Dünyadan Uzaklığı: 65,23 ışık yılı",
+		"GezegenYuzeySicakligi": "Yüzey Sıcaklığı: 3.910 Kelvin (K) / 3636.85 Celsius (°C)",
+		"CardAciklama": "Sistemimizin en büyük gezegeni.",
+		"Aciklama": "Aldebaran (α Tau, α Tauri, Alpha Tauri), Boğa takımyıldızı yönünde yaklaşık olarak 65 ışık yılı uzaklıkta bulunan bir kırmızı dev yıldızdır. 0,87 kadir ortalama büyüklüğüyle takımyıldızının en parlak yıldızı olan Aldebaran, gece gökyüzünün de en parlak yıldızlarından birisidir. Aldebaran, Arapça (الدبران) 'takip eden' veya 'izleyen' demektir. Bu konumda 'izlenen' V harfi şeklinde bir araya gelmiş bir yıldız kümesi olan Hyades'dir. 1997 yılında bir altyıldız arkadaşı olduğu iddia edilmiş, fakat sonradan yapılan gözlemler bu iddiayı doğrulamamıştır.",
+		"LogoUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet2_logo.png",
+		"KapakImgUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet2_banner.png"
+
+	}
+
+	,
+
+	{
+
+		"GezegenAdi": "Rigel A",
+		"GezegenYaricapi": "Yarıçapı: 54.890.000 km",
+		"DunyayaUzakligi": "Dünyadan Uzaklığı: 864,3 ışık yılı",
+		"GezegenYuzeySicakligi": "Yüzey Sıcaklığı: 11.000 Kelvin (K) / 10726,85 Celsius (°C)",
+		"Aciklama": "Ülkemizde özellikle kış aylarında rahatça görülebilen Avcı (Orion) Takımyıldızı’nda yer alan Rigel, çok parlak olmasına karşın aslında bizden yaklaşık 900 ışık yılı gibi büyük bir uzaklıkta yer alıyor. Bu kadar uzak olmasına rağmen onu parlak biçimde görebilmemizin nedeni, Rigel’in O tayf sınıfında yer alan bir mavi dev yıldız olması. Eğer Rigel’i görmek istiyorsanız, şu yazımızda anlattığımız “Avcının Kemeri“ni oluşturan üç yıldızın sağ alt tarafına bakabilirsiniz. Göreceğiniz ilk parlak yıldız, Rigel olacaktır. Rigel, Güneş’in 21 katı kütleye sahip, ömrünün sağlıklı dönemlerini yaşayan dev bir anakol yıldızıdır. Çapı, Güneş’ten yaklaşık 80 kat büyük, yüzey sıcaklığı ise 12 bin santigrat derece kadardır. Yıldız bu çap ve yüzey sıcaklığı sayesinde Güneş’ten yaklaşık 120 bin kat fazla enerji yayar.",
+		"LogoUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet3_logo.jpg",
+		"KapakImgUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet3_banner.jpg"
+
+	}
+
+	,
+
+	{
+
+		"GezegenAdi": "Eta Carinae A",
+		"GezegenYaricapi": "Yarıçapı: 167.000.000 km",
+		"DunyayaUzakligi": "Dünyadan Uzaklığı: ~7.500 ışık yılı",
+		"GezegenYuzeySicakligi": "Yüzey Sıcaklığı: 15.000 Kelvin (K) / 14726,85 Celsius (°C)",
+		"Aciklama": "Eta Carinae (η Carinae veya η Car), Karina takımyıldızı içinde yaklaşık olarak 7.500 ışık yılı uzaklıkta bulunan bir yıldızdır. Başlangıçta kütlesinin 150 güneş kütlesi olduğu hesaplanan birincil bileşenin, en az 30 güneş kütlesini kaybettiği düşünülmektedir.  Günümüzde göreceli ayrıntı ile incelenebilen en büyük yıldızdır. Eta Carinae'yı çevreleyen büyük ve kalın kırmızı bulutsudan dolayı diğer bileşeni optik olarak görmek imkânsızdır. Ancak buna rağmen 30 güneş kütlesine sahip sıcak bir üstdevin, birincil etrafında yörüngede olduğu bilinmektedir. ",
+		"LogoUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet4_logo.jpg",
+		"KapakImgUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet4_banner.jpg"
+
+	}
+
+	,
+
+	{
+
+		"GezegenAdi": "Betelgeuse",
+		"GezegenYaricapi": "Yarıçapı: 617.100.000 km",
+		"DunyayaUzakligi": "Dünyadan Uzaklığı: 642,5 ışık yılı",
+		"GezegenYuzeySicakligi": "Yüzey Sıcaklığı: 3.500 Kelvin (K) / 3226,85 Celsius (°C)",
+		"Aciklama": "Betelgeuse (Beteljöz, Betelguex, Betelgeuze, Beteiguex, Al Mankib, İkizlerevi), Avcı Takımyıldızı'nda yer alan kırmızı dev yıldızdır. Samanyolu'nda yer alan Betelgeuse, mavi dev Rigel'den (Beta Orionis) sonra Avcı Takımyıldızı'nın en parlak ikinci yıldızıdır. Takımyıldızın ortasında ise avcı Orion'un kuşağını oluşturan üç parlak mavi yıldız (Alnitak, Alnilam ve Mintaka) yer alır. Betelgeuse adı, Arapça ''el-cevze'nin eli'' anlamına gelen ''yad ül-cevze''dan bozmadır. El-Cevze, eski Arap mitolojisinde ''gizemli kadın''dır. Batılılar için ise Betelgeuse, Helen mitolojisindeki avcı Orionun yukarı uzanan sağ kolunun omuz başında yer almaktadır.",
+		"LogoUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet5_logo.jpg",
+		"KapakImgUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet5_banner.jpg"
+
+	}
+
+	,
+
+	{
+
+		"GezegenAdi": "Mu Cephei",
+		"GezegenYaricapi": "Yarıçapı: 876.600.000 km",
+		"DunyayaUzakligi": "Dünyadan Uzaklığı: 2.838 ışık yılı",
+		"GezegenYuzeySicakligi": "Yüzey Sıcaklığı: 3.690 Kelvin (K) / 3416,85 Celsius (°C)",
+		"Aciklama": "Mu Cephei, görsel olarak Güneş'ten yaklaşık 100.000 kat daha parlaktır ve mutlak görsel büyüklüğü −7.6'dır. Aynı zamanda, Güneş'in yaklaşık 1000 katı veya daha fazla yarıçapı ile bilinen en büyük yıldızlardan biridir ve Güneş'in konumuna yerleştirilirse, Mars ve Jüpiter'in yörüngesini yutar.",
+		"LogoUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet6_logo.jpg",
+		"KapakImgUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet6_banner.jpg"
+
+	}
+
+	,
+
+	{
+
+		"GezegenAdi": "VY Canis Majoris",
+		"GezegenYaricapi": "Yarıçapı: 987.890.000 km",
+		"DunyayaUzakligi": "Dünyadan Uzaklığı: 4.892 ışık yılı",
+		"GezegenYuzeySicakligi": "Yüzey Sıcaklığı: 3.490 Kelvin (K) / 3216,85 Celsius (°C)",
+		"Aciklama": "VY Canis Majoris ya da bilinen adıyla VY CMa, Büyük Köpek Takımyıldızı'nın içinde bulunan ve evrendeki bilinen en büyük yıldızlardan birisi olmasıyla beraber bir kızıl üstündev yıldız. Yarıçapı 1.420±120 güneş yarıçapı genişliğindedir. Ayrıca, aydınlatma gücü en yüksek yıldızlardan biri olan VY CMa, Dünya'dan yaklaşık 3.840 ışık yılı uzaktadır. Çift veya çoklu yıldız sistemlerinde bulunan çoğu yıldızın aksine, VY CMa tekil bir yıldızdır ve herhangi bir yıldızsal yoldaşı bulunmamaktadır. Bu yıldız yarıdüzenli değişen olarak kategorilendirilmiştir ve 2.000 günlük bir yörünge süresi vardır. VY Canis Majoris'in bilinen ilk kaydı Fransız astronom Jérôme Lalande'ın 7 Mart 1801 tarihli yıldız kataloğundadır. Bu katalog VY CMa'nın kadrini 7. derece olarak vermektedir. 19. yüzyılda sürdürülen çalışmalar 1850'den bu yana yıldızın kadrinin giderek azaldığını ortaya çıkarmıştır. VY CMa, 1847'den beri bir kızıl yıldız olarak bilinmektedir.",
+		"LogoUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet7_logo.png",
+		"KapakImgUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet7_banner.jpg"
+
+	},
+
+	{
+
+		"GezegenAdi": "UY Scuti",
+		"GezegenYaricapi": "Yarıçapı: ~1.187.914.000 km",
+		"DunyayaUzakligi": "Dünyadan Uzaklığı: 5.219 ışık yılı",
+		"GezegenYuzeySicakligi": "Yüzey Sıcaklığı: 3.365 Kelvin (K) / 3091,85 Celsius (°C)",
+		"Aciklama": "Dünya’nın veya Güneş’in büyük gök cisimleri olduğunu sanıyorsanız tekrar düşünün. ‘UY Scuti’ adlı yıldız, Güneş’in yarıçapının yaklaşık 1708 katı büyüklüğü ile gözlemlenebilen evrendeki en büyük yıldız unvanını elinde bulunduruyor. İngiliz Daily Mail gazetesinin haberine göre, Dünya’dan 9 bin 500 ışık yılı uzaklıkta, Scutum (Kalkan) Takımyıldızı’nda yer alan bu hiper – dev, içine 5 milyar tane Güneş sığabilecek kadar büyük bir hacme sahip. (Güneş’in içine de yaklaşık 1 milyon Dünya sığabileceğini hatırlatalım). Başka bir deyişle, bu yıldızın merkez noktasından yüzeyine gitmek için Güneş ile Dünya arasındaki mesafeyi (149,6 milyon kilometre) neredeyse 8 defa gidip gelmek gerekiyor. Sayısal olarak medyan yarıçapı 2 milyar 375 milyon 828 bin kilometre olan yıldızın Güneş’in 30 katı kadar bir kütlesi bulunuyor.",
+		"LogoUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet8_logo.jpg",
+		"KapakImgUrl": "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/images/planet8_banner.jpg"
+
+	}
+]
