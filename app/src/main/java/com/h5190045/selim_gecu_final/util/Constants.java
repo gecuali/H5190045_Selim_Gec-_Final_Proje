@@ -6,6 +6,6 @@ public class Constants {
     public static String CLICKED_PLANETS_HEADER = "clickedPlanet";
 
     //Ana URL
-    public  static String BASE_URL = "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/main/";
+    public  static String BASE_URL = "https://raw.githubusercontent.com/gecuali/h5190045selimgecu/master/";
 
 }
